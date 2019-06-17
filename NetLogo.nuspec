@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>NetLogo</id>
+    <version>5.0.4</version>
+    <title>NetLogo</title>
+    <authors>Uri Wilensky</authors>
+    <owners>Uri Wilensky</owners>
+    <licenseUrl>http://ccl.northwestern.edu/netlogo/docs/copyright.html</licenseUrl>
+    <projectUrl>http://ccl.northwestern.edu/netlogo/index.shtml</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A multi-agent programmable modeling environment.</description>
+    <summary>Programmable modeling environment</summary>
+    <releaseNotes />
+    <copyright />
+  </metadata>
+</package>

@@ -1,0 +1,1 @@
+install-ChocolateyPackage 'NetLogo' 'EXE' '-q' 'http://ccl.northwestern.edu/netlogo/5.0.4/NetLogo5.0.4Installer.exe'

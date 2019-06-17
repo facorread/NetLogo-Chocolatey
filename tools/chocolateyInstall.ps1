@@ -1,1 +1,1 @@
-install-ChocolateyPackage 'NetLogo' 'EXE' '-q' 'http://ccl.northwestern.edu/netlogo/5.0.4/NetLogo5.0.4Installer.exe'
+install-ChocolateyPackage -PackageName 'NetLogo' -FileType 'msi' -SilentArgs '-q' -Url 'https://ccl.northwestern.edu/netlogo/6.1.0/NetLogo-6.1.0-32.msi' -Url64bit 'https://ccl.northwestern.edu/netlogo/6.1.0/NetLogo-6.1.0-64.msi'

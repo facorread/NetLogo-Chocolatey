@@ -5,13 +5,20 @@
     <version>6.1.0</version>
     <title>NetLogo</title>
     <authors>Uri Wilensky</authors>
-    <owners>Uri Wilensky</owners>
+    <owners>Fabio A. Correa Duran</owners>
+    <docsUrl>https://ccl.northwestern.edu/netlogo/docs/</docsUrl>
+    <mailingListUrl>https://ccl.northwestern.edu/netlogo/resources.shtml</mailingListUrl>
+    <iconUrl>https://ccl.northwestern.edu/netlogo-ccl/netlogo.png</iconUrl>
     <licenseUrl>https://ccl.northwestern.edu/netlogo/docs/copyright.html</licenseUrl>
     <projectUrl>https://ccl.northwestern.edu/netlogo/</projectUrl>
+    <bugTrackerUrl>https://github.com/NetLogo/NetLogo/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/NetLogo/NetLogo</projectSourceUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A multi-agent programmable modeling environment for simulating natural and social phenomena</description>
     <summary>Programmable modeling environment</summary>
     <releaseNotes>https://ccl.northwestern.edu/netlogo/docs/versions.html</releaseNotes>
     <copyright>Copyright 1999-2019 by Uri Wilensky</copyright>
+    <tags>netlogo agent-based modeling simulation cross-platform animation 3d education educational portable scientific foss java ide</tags>
+    <packageSourceUrl>https://github.com/facorread/NetLogo-Chocolatey</packageSourceUrl>
   </metadata>
 </package>

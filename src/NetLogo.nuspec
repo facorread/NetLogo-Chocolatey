@@ -8,7 +8,7 @@
     <owners>Fabio A. Correa Duran</owners>
     <docsUrl>https://ccl.northwestern.edu/netlogo/docs/</docsUrl>
     <mailingListUrl>https://ccl.northwestern.edu/netlogo/resources.shtml</mailingListUrl>
-    <iconUrl>https://ccl.northwestern.edu/netlogo-ccl/netlogo.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/NetLogo/Galapagos/352735eb33e6d5638709b2b93324686d8507e499/public/images/desktopicon.png</iconUrl>
     <licenseUrl>https://ccl.northwestern.edu/netlogo/docs/copyright.html</licenseUrl>
     <projectUrl>https://ccl.northwestern.edu/netlogo/</projectUrl>
     <bugTrackerUrl>https://github.com/NetLogo/NetLogo/issues</bugTrackerUrl>
